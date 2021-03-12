@@ -1,0 +1,56 @@
+{
+  "2019": {
+    "carouselImages": [
+      
+    ],
+    "htPoster": "",
+    "feedbackUrl": "",
+    "talks": [
+      {
+        "title": "",
+        "resources": {
+          "Presentation": "",
+          "Video Part 1": "",
+          "Video Part 2": ""
+        }
+      },
+      {
+        "title": "",
+        "resources": {
+          "Presentation": "",
+          "Video Part 1": "",
+          "Video Part 2": ""
+        }
+      },
+      {
+        "title": "",
+        "resources": {
+          "Presentation": "",
+          "Terrain Generation with Diamond Square": "",
+          "Video Part 1": "", 
+          "Video Part 2": ""
+        }
+      },
+      {
+        "title": "APK Modding",
+        "resources": {
+          "Presentation": "/resources/APK Modding.pptx"
+        }
+      },
+      {
+        "title": "Tiny Raycaster",
+        "resources": {
+          "Presentation": ""
+        }
+      },
+      {
+        "title": "Onion Routing",
+        "resources": {
+          "Presentation": "",
+          "Video Part 1": "https://delta.nitt.edu/~naven/Hackertalks/Uncompressed/AniShub/MVI_9932.MP4",
+          "Video Part 2": "https://delta.nitt.edu/~naven/Hackertalks/Uncompressed/AniShub/MVI_9933.MP4"
+        }
+      }
+    ]
+  }
+}
